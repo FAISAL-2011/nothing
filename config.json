@@ -1,0 +1,8 @@
+{
+    "host": "scoresmp-zFxf.aternos.me",
+    "port": 20945,
+    "username": "Bhalok_botla",
+    "version": "1.21.11",
+    "reconnect_delay": 10000,
+    "movement_interval": 60000
+}
